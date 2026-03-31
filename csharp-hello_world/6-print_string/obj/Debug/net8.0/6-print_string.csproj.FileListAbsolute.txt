@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/net8.0/6-print_string
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/net8.0/6-print_string.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/net8.0/6-print_string.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/net8.0/6-print_string.dll
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/6-print_string/bin/Debug/net8.0/6-print_string.pdb
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.dll
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/refint/6-print_string.dll
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.pdb
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/6-print_string.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/6-print_string/obj/Debug/net8.0/ref/6-print_string.dll
