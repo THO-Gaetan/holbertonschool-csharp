@@ -15,6 +15,6 @@ class Program
             else
                 Console.Write(i + " ");
         }
-        Console.WriteLine();
+        Console.WriteLine(" ");
     }
 }
