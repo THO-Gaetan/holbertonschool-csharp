@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net8.0/8-number_keys
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net8.0/8-number_keys.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net8.0/8-number_keys.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net8.0/8-number_keys.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/bin/Debug/net8.0/8-number_keys.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/refint/8-number_keys.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/8-number_keys.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/8-number_keys/obj/Debug/net8.0/ref/8-number_keys.dll

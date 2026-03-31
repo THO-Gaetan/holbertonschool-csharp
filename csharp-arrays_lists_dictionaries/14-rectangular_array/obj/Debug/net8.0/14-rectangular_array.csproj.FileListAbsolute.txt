@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net8.0/14-rectangular_array
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net8.0/14-rectangular_array.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net8.0/14-rectangular_array.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net8.0/14-rectangular_array.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/bin/Debug/net8.0/14-rectangular_array.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net8.0/14-rectangular_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net8.0/14-rectangular_array.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net8.0/14-rectangular_array.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net8.0/14-rectangular_array.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net8.0/14-rectangular_array.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net8.0/14-rectangular_array.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net8.0/refint/14-rectangular_array.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net8.0/14-rectangular_array.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net8.0/14-rectangular_array.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/14-rectangular_array/obj/Debug/net8.0/ref/14-rectangular_array.dll

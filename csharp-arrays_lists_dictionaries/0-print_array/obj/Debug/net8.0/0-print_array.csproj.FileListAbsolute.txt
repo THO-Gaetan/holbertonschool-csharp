@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net8.0/0-print_array
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net8.0/0-print_array.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net8.0/0-print_array.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net8.0/0-print_array.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/bin/Debug/net8.0/0-print_array.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net8.0/0-print_array.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net8.0/0-print_array.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net8.0/0-print_array.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net8.0/0-print_array.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net8.0/0-print_array.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net8.0/0-print_array.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net8.0/refint/0-print_array.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net8.0/0-print_array.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net8.0/0-print_array.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/0-print_array/obj/Debug/net8.0/ref/0-print_array.dll

@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net8.0/7-delete_at
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net8.0/7-delete_at.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net8.0/7-delete_at.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net8.0/7-delete_at.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/bin/Debug/net8.0/7-delete_at.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net8.0/7-delete_at.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net8.0/7-delete_at.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net8.0/7-delete_at.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net8.0/7-delete_at.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net8.0/7-delete_at.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net8.0/7-delete_at.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net8.0/refint/7-delete_at.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net8.0/7-delete_at.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net8.0/7-delete_at.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/7-delete_at/obj/Debug/net8.0/ref/7-delete_at.dll

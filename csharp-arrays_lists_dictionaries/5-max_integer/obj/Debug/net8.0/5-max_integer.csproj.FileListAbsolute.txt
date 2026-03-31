@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net8.0/5-max_integer
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net8.0/5-max_integer.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net8.0/5-max_integer.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net8.0/5-max_integer.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/bin/Debug/net8.0/5-max_integer.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net8.0/5-max_integer.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net8.0/5-max_integer.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net8.0/5-max_integer.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net8.0/5-max_integer.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net8.0/5-max_integer.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net8.0/5-max_integer.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net8.0/refint/5-max_integer.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net8.0/5-max_integer.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net8.0/5-max_integer.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/5-max_integer/obj/Debug/net8.0/ref/5-max_integer.dll
