@@ -5,8 +5,6 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <LangVersion>10.0</LangVersion>
     <RootNamespace>_2_new_project</RootNamespace>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
   </PropertyGroup>
 
 </Project>
