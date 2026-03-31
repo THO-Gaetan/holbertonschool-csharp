@@ -7,7 +7,5 @@ class Program
         for (char c = 'a'; c <= 'z' ; c++)
             if (c != 'q' && c != 'e')
                 Console.Write(c);
-            else
-                Console.Write("");
     }
 }
