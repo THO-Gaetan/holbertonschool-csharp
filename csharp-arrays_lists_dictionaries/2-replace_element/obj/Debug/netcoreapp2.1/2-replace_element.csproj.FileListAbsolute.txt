@@ -1,0 +1,14 @@
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_element.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_element.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_element.runtimeconfig.dev.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_element.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/bin/Debug/netcoreapp2.1/2-replace_element.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.csproj.AssemblyReference.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/2-replace_element/obj/Debug/netcoreapp2.1/2-replace_element.genruntimeconfig.cache
