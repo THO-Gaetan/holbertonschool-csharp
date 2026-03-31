@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/net8.0/12-fizzbuzz
+/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/net8.0/12-fizzbuzz.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/net8.0/12-fizzbuzz.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/net8.0/12-fizzbuzz.dll
+/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/bin/Debug/net8.0/12-fizzbuzz.pdb
+/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net8.0/12-fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net8.0/12-fizzbuzz.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net8.0/12-fizzbuzz.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net8.0/12-fizzbuzz.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net8.0/12-fizzbuzz.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net8.0/12-fizzbuzz.dll
+/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net8.0/refint/12-fizzbuzz.dll
+/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net8.0/12-fizzbuzz.pdb
+/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net8.0/12-fizzbuzz.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/12-fizzbuzz/obj/Debug/net8.0/ref/12-fizzbuzz.dll
