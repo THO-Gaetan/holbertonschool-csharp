@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabet/3-print_alphabet.csproj": {}
+  },
+  "projects": {
+    "/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabet/3-print_alphabet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabet/3-print_alphabet.csproj",
+        "projectName": "3-print_alphabet",
+        "projectPath": "/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabet/3-print_alphabet.csproj",
+        "packagesPath": "/home/gaetan/.nuget/packages/",
+        "outputPath": "/home/gaetan/holbertonschool-csharp/csharp-ifelse_loops_methods/3-print_alphabet/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/gaetan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/snap/dotnet-sdk/256/sdk/8.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
