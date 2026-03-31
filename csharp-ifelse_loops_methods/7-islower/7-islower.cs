@@ -1,2 +1,12 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+class Character
+{
+    public static bool IsLower(char c)
+    {
+        if (c >= 'a' && c <= 'z')
+            return true;
+        else
+            return false;
+    }
+}
