@@ -6,9 +6,14 @@ class List
     public static ListInt CreatePrint(int size)
     {
         ListInt myList = new ListInt();
-        if (size <= 0)
+        if (size < 0)
         {
             Console.WriteLine("Size cannot be negative");
+            return myList;
+        }
+        else if (size == 0)
+        {
+            Console.WriteLine();
             return myList;
         }
         for (int i = 0; i < size; i++)
