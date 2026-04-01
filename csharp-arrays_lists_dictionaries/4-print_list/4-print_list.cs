@@ -8,7 +8,7 @@ class List
         ListInt myList = new ListInt();
         if (size <= 0)
         {
-            Console.WriteLine();
+            Console.WriteLine("Size cannot be negative");
             return myList;
         }
         for (int i = 0; i < size; i++)
