@@ -6,7 +6,7 @@ class Dictionary
     public static string BestScore(DictStrInt myList)
     {
         if (myList.Count == 0 || myList == null)
-            return null;
+            return "None";
 
         string bestStudent = null;
         int bestScore = int.MinValue;
