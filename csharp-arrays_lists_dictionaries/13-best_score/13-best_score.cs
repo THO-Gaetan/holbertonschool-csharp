@@ -5,7 +5,7 @@ class Dictionary
 {
     public static string BestScore(DictStrInt myList)
     {
-        if (myList.Count == 0)
+        if (myList.Count == 0 || myList == null)
             return null;
 
         string bestStudent = null;
