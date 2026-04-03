@@ -5,6 +5,10 @@ class Dictionary
 {
     public static DictStr DeleteKeyValue(DictStr myDict, string key)
     {
-        
+        if (myDict.ContainsKey(key))
+        {
+            myDict.Remove(key);
+        }
+        return myDict;
     }
 }

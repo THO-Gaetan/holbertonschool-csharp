@@ -1,0 +1,14 @@
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.csproj.AssemblyReference.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/netcoreapp2.1/12-print_sorted_dictionary.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/netcoreapp2.1/12-print_sorted_dictionary.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/netcoreapp2.1/12-print_sorted_dictionary.runtimeconfig.dev.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/netcoreapp2.1/12-print_sorted_dictionary.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/bin/Debug/netcoreapp2.1/12-print_sorted_dictionary.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/12-print_sorted_dictionary/obj/Debug/netcoreapp2.1/12-print_sorted_dictionary.genruntimeconfig.cache

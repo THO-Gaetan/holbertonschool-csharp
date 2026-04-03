@@ -1,0 +1,14 @@
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/11-multiply_by_2/bin/Debug/netcoreapp2.1/11-multiply_by_2.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/11-multiply_by_2/bin/Debug/netcoreapp2.1/11-multiply_by_2.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/11-multiply_by_2/bin/Debug/netcoreapp2.1/11-multiply_by_2.runtimeconfig.dev.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/11-multiply_by_2/bin/Debug/netcoreapp2.1/11-multiply_by_2.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/11-multiply_by_2/bin/Debug/netcoreapp2.1/11-multiply_by_2.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/11-multiply_by_2/obj/Debug/netcoreapp2.1/11-multiply_by_2.csproj.AssemblyReference.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/11-multiply_by_2/obj/Debug/netcoreapp2.1/11-multiply_by_2.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/11-multiply_by_2/obj/Debug/netcoreapp2.1/11-multiply_by_2.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/11-multiply_by_2/obj/Debug/netcoreapp2.1/11-multiply_by_2.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/11-multiply_by_2/obj/Debug/netcoreapp2.1/11-multiply_by_2.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/11-multiply_by_2/obj/Debug/netcoreapp2.1/11-multiply_by_2.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/11-multiply_by_2/obj/Debug/netcoreapp2.1/11-multiply_by_2.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/11-multiply_by_2/obj/Debug/netcoreapp2.1/11-multiply_by_2.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/11-multiply_by_2/obj/Debug/netcoreapp2.1/11-multiply_by_2.genruntimeconfig.cache

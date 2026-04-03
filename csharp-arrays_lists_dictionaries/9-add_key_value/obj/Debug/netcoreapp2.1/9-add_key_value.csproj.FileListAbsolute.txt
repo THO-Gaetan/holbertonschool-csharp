@@ -1,0 +1,14 @@
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/bin/Debug/netcoreapp2.1/9-add_key_value.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/bin/Debug/netcoreapp2.1/9-add_key_value.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/bin/Debug/netcoreapp2.1/9-add_key_value.runtimeconfig.dev.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/bin/Debug/netcoreapp2.1/9-add_key_value.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/bin/Debug/netcoreapp2.1/9-add_key_value.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/netcoreapp2.1/9-add_key_value.csproj.AssemblyReference.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/netcoreapp2.1/9-add_key_value.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/netcoreapp2.1/9-add_key_value.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/netcoreapp2.1/9-add_key_value.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/netcoreapp2.1/9-add_key_value.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/netcoreapp2.1/9-add_key_value.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/netcoreapp2.1/9-add_key_value.dll
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/netcoreapp2.1/9-add_key_value.pdb
+/home/gaetan/holbertonschool-csharp/csharp-arrays_lists_dictionaries/9-add_key_value/obj/Debug/netcoreapp2.1/9-add_key_value.genruntimeconfig.cache
