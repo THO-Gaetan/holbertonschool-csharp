@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+using DictStrInt = System.Collections.Generic.Dictionary<string, int>;
+
+class Dictionary
+{
+    public static string BestScore(DictStrInt myList)
+    {
+
+    }
+}
