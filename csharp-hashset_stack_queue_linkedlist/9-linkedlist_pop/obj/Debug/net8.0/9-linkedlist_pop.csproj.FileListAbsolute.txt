@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/net8.0/9-linkedlist_pop
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/net8.0/9-linkedlist_pop.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/net8.0/9-linkedlist_pop.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/net8.0/9-linkedlist_pop.dll
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/bin/Debug/net8.0/9-linkedlist_pop.pdb
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net8.0/9-linkedlist_pop.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net8.0/9-linkedlist_pop.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net8.0/9-linkedlist_pop.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net8.0/9-linkedlist_pop.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net8.0/9-linkedlist_pop.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net8.0/9-linkedlist_pop.dll
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net8.0/refint/9-linkedlist_pop.dll
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net8.0/9-linkedlist_pop.pdb
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net8.0/9-linkedlist_pop.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/9-linkedlist_pop/obj/Debug/net8.0/ref/9-linkedlist_pop.dll

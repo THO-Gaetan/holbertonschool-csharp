@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/net8.0/12-linkedlist_insert
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/net8.0/12-linkedlist_insert.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/net8.0/12-linkedlist_insert.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/net8.0/12-linkedlist_insert.dll
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/bin/Debug/net8.0/12-linkedlist_insert.pdb
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net8.0/12-linkedlist_insert.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net8.0/12-linkedlist_insert.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net8.0/12-linkedlist_insert.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net8.0/12-linkedlist_insert.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net8.0/12-linkedlist_insert.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net8.0/12-linkedlist_insert.dll
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net8.0/refint/12-linkedlist_insert.dll
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net8.0/12-linkedlist_insert.pdb
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net8.0/12-linkedlist_insert.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/12-linkedlist_insert/obj/Debug/net8.0/ref/12-linkedlist_insert.dll
