@@ -1,0 +1,14 @@
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.runtimeconfig.dev.json
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.dll
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/100-hello_error/bin/Debug/netcoreapp2.1/100-hello_error.pdb
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.csproj.AssemblyReference.cache
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.dll
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.pdb
+/home/gaetan/holbertonschool-csharp/csharp-hello_world/100-hello_error/obj/Debug/netcoreapp2.1/100-hello_error.genruntimeconfig.cache

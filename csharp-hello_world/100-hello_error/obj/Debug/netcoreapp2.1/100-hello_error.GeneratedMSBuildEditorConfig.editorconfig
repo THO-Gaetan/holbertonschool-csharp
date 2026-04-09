@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = _100_hello_error
+build_property.ProjectDir = /home/gaetan/holbertonschool-csharp/csharp-hello_world/100-hello_error/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
