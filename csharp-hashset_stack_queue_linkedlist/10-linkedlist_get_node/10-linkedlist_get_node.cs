@@ -1,8 +1,14 @@
-﻿using system;
+﻿using System;
+using System.Collections.Generic;
 
-class LList:
+class LList
+{
     public static int GetNode(LinkedList<int> myLList, int n)
     {
+        if (myLList.Count == 0)
+        {
+            return 0;
+        }
         if (n < 0 || n >= myLList.Count)
         {
             throw new ArgumentOutOfRangeException("n", "Index is out of range.");
@@ -14,3 +20,4 @@ class LList:
         }
         return currentNode.Value;
     }
+}
