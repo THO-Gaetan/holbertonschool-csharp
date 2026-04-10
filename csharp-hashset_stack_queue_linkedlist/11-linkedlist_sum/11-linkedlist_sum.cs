@@ -1,6 +1,8 @@
-﻿using system;
+﻿using System;
+using System.Collections.Generic;
 
-class LList:
+class LList
+{
     public static int Sum(LinkedList<int> myLList)
     {
         int sum = 0;
@@ -10,3 +12,4 @@ class LList:
         }
         return sum;
     }
+}
