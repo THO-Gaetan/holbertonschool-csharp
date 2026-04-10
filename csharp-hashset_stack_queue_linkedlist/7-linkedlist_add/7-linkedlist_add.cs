@@ -1,9 +1,12 @@
-﻿using class
+﻿using System;
+using System.Collections.Generic;
 
-class LList:
+class LList
+{
     public static LinkedListNode<int> Add(LinkedList<int> myLList, int n)
     {
         LinkedListNode<int> newNode = new LinkedListNode<int>(n);
         myLList.AddLast(newNode);
         return newNode;
     }
+}
