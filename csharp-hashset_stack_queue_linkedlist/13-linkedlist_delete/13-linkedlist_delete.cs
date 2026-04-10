@@ -7,7 +7,7 @@ class LList
     {
         if (index < 0 || index >= myLList.Count)
         {
-            throw new ArgumentOutOfRangeException(nameof(index), "Index is out of range.");
+            return;
         }
 
         LinkedListNode<int> currentNode = myLList.First;
