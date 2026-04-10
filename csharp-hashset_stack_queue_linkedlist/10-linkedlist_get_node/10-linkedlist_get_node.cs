@@ -11,7 +11,7 @@ class LList
         }
         if (n < 0 || n >= myLList.Count)
         {
-            throw new ArgumentOutOfRangeException("n", "Index is out of range.");
+            return 0;
         }
         LinkedListNode<int> currentNode = myLList.First;
         for (int i = 0; i < n; i++)
