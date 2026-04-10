@@ -1,6 +1,8 @@
-﻿using system;
+﻿using System;
+using System.Collections.Generic;
 
-class LList:
+class LList
+{
     public static int FindNode(LinkedList<int> myLList, int value)
     {
         int index = 0;
@@ -12,5 +14,6 @@ class LList:
             }
             index++;
         }
-        return -1; // Not found
+        return -1;
     }
+}
