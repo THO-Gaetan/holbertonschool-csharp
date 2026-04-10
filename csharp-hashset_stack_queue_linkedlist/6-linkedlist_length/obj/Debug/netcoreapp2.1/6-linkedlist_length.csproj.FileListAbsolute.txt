@@ -1,0 +1,14 @@
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp2.1/6-linkedlist_length.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp2.1/6-linkedlist_length.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp2.1/6-linkedlist_length.runtimeconfig.dev.json
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp2.1/6-linkedlist_length.dll
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/bin/Debug/netcoreapp2.1/6-linkedlist_length.pdb
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/6-linkedlist_length.csproj.AssemblyReference.cache
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/6-linkedlist_length.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/6-linkedlist_length.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/6-linkedlist_length.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/6-linkedlist_length.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/6-linkedlist_length.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/6-linkedlist_length.dll
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/6-linkedlist_length.pdb
+/home/gaetan/holbertonschool-csharp/csharp-hashset_stack_queue_linkedlist/6-linkedlist_length/obj/Debug/netcoreapp2.1/6-linkedlist_length.genruntimeconfig.cache
