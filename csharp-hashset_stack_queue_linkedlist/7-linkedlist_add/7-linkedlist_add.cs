@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using class
+
+class LList:
+    public static LinkedListNode<int> Add(LinkedList<int> myLList, int n)
+    {
+        LinkedListNode<int> newNode = new LinkedListNode<int>(n);
+        myLList.AddLast(newNode);
+        return newNode;
+    }

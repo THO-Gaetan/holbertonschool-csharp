@@ -1,2 +1,17 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using system;
+
+class LList:
+    public static void Delete(LinkedList<int> myLList, int index)
+    {
+        if (index < 0 || index >= myLList.Count)
+        {
+            throw new ArgumentOutOfRangeException(nameof(index), "Index is out of range.");
+        }
+
+        LinkedListNode<int> currentNode = myLList.First;
+        for (int i = 0; i < index; i++)
+        {
+            currentNode = currentNode.Next;
+        }
+        myLList.Remove(currentNode);
+    }
