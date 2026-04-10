@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9-linkedlist_pop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b434597b82d74337aeafdf8443e86dd00caeeba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d79fb69519f65e9c3b11e71b383ad16584f59bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("9-linkedlist_pop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9-linkedlist_pop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

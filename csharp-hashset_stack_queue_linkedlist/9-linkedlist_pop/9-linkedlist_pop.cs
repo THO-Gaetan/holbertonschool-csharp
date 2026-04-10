@@ -1,13 +1,16 @@
-﻿using system;
+﻿using System;
+using System.Collections.Generic;
 
-class LList:
+class LList
+{
     public static int Pop(LinkedList<int> myLList)
     {
         if (myLList.Count == 0)
         {
-            throw new InvalidOperationException("The linked list is empty.");
+            return 0;
         }
         int value = myLList.First.Value;
         myLList.RemoveFirst();
         return value;
     }
+}
