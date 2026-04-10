@@ -5,11 +5,11 @@ class LList
 {
     public static LinkedList<int> CreatePrint(int size)
     {
+        LinkedList<int> linkedList = new LinkedList<int>();
         if (size < 0)
         {
-            return null;
+            return linkedList;
         }
-        LinkedList<int> linkedList = new LinkedList<int>();
         for (int i = 0; i < size; i++)
         {
             linkedList.AddLast(i);
