@@ -1,6 +1,8 @@
-﻿using system;
+﻿using System;
+using System.Collections.Generic;
 
-class LList:
+class LList
+{
     public static void Delete(LinkedList<int> myLList, int index)
     {
         if (index < 0 || index >= myLList.Count)
@@ -15,3 +17,4 @@ class LList:
         }
         myLList.Remove(currentNode);
     }
+}
