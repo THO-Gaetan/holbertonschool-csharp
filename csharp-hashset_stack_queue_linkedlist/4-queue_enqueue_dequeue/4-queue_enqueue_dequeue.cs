@@ -22,7 +22,7 @@ class MyQueue
         aQueue.Enqueue(newItem);
         
         // Check if contains search
-        Console.WriteLine($"Queue contains {search}: {aQueue.Contains(search)}");
+        Console.WriteLine($"Queue contains \"{search}\": {aQueue.Contains(search)}");
         
         // If contains search, remove all items up to and including search
         if (aQueue.Contains(search))
