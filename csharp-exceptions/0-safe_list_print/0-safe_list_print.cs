@@ -16,7 +16,7 @@ public class List
         }
         catch (ArgumentOutOfRangeException)
         {
-            Console.WriteLine("Out of range");
+            return i;
         }
 
         return i;
