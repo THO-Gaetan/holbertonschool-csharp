@@ -8,8 +8,6 @@ public class List
         List<int> result = new List<int>();
         try 
         {
-            if (list1 == null || list2 == null)
-                throw new ArgumentNullException();
             for (int i = 0; i < listLength; i++)
             {
                 try
@@ -22,6 +20,10 @@ public class List
                     result.Add(0);
                 }
             }
+        }
+        catch (ArgumentNullException)
+        {
+            Console.WriteLine("Null list");
         }
         catch (ArgumentOutOfRangeException)
         {
