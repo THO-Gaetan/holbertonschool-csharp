@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-structs_enums/3-dog/bin/Debug/net8.0/3-dog
+/home/gaetan/holbertonschool-csharp/csharp-structs_enums/3-dog/bin/Debug/net8.0/3-dog.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-structs_enums/3-dog/bin/Debug/net8.0/3-dog.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-structs_enums/3-dog/bin/Debug/net8.0/3-dog.dll
+/home/gaetan/holbertonschool-csharp/csharp-structs_enums/3-dog/bin/Debug/net8.0/3-dog.pdb
+/home/gaetan/holbertonschool-csharp/csharp-structs_enums/3-dog/obj/Debug/net8.0/3-dog.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-structs_enums/3-dog/obj/Debug/net8.0/3-dog.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-structs_enums/3-dog/obj/Debug/net8.0/3-dog.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-structs_enums/3-dog/obj/Debug/net8.0/3-dog.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-structs_enums/3-dog/obj/Debug/net8.0/3-dog.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-structs_enums/3-dog/obj/Debug/net8.0/3-dog.dll
+/home/gaetan/holbertonschool-csharp/csharp-structs_enums/3-dog/obj/Debug/net8.0/refint/3-dog.dll
+/home/gaetan/holbertonschool-csharp/csharp-structs_enums/3-dog/obj/Debug/net8.0/3-dog.pdb
+/home/gaetan/holbertonschool-csharp/csharp-structs_enums/3-dog/obj/Debug/net8.0/3-dog.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-structs_enums/3-dog/obj/Debug/net8.0/ref/3-dog.dll
