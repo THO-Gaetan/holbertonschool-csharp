@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/net8.0/2-enemy
+/home/gaetan/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/net8.0/2-enemy.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/net8.0/2-enemy.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/net8.0/2-enemy.dll
+/home/gaetan/holbertonschool-csharp/csharp-classes/2-enemy/bin/Debug/net8.0/2-enemy.pdb
+/home/gaetan/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net8.0/2-enemy.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net8.0/2-enemy.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net8.0/2-enemy.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net8.0/2-enemy.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net8.0/2-enemy.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net8.0/2-enemy.dll
+/home/gaetan/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net8.0/refint/2-enemy.dll
+/home/gaetan/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net8.0/2-enemy.pdb
+/home/gaetan/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net8.0/2-enemy.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-classes/2-enemy/obj/Debug/net8.0/ref/2-enemy.dll
