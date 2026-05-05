@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/1-instance/bin/Debug/net8.0/1-instance
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/1-instance/bin/Debug/net8.0/1-instance.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/1-instance/bin/Debug/net8.0/1-instance.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/1-instance/bin/Debug/net8.0/1-instance.dll
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/1-instance/bin/Debug/net8.0/1-instance.pdb
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/net8.0/1-instance.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/net8.0/1-instance.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/net8.0/1-instance.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/net8.0/1-instance.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/net8.0/1-instance.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/net8.0/1-instance.dll
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/net8.0/refint/1-instance.dll
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/net8.0/1-instance.pdb
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/net8.0/1-instance.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/1-instance/obj/Debug/net8.0/ref/1-instance.dll
