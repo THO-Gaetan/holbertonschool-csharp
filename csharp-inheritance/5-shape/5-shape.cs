@@ -1,2 +1,9 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+class Shape
+{
+    public virtual int Area()
+    {
+        Throw new NotImplementedException("Area() is not implemented");
+    }
+}
