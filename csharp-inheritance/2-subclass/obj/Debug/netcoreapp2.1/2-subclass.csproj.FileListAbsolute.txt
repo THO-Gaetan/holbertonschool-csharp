@@ -1,0 +1,14 @@
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.runtimeconfig.dev.json
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.dll
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/2-subclass/bin/Debug/netcoreapp2.1/2-subclass.pdb
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.csproj.AssemblyReference.cache
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.dll
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.pdb
+/home/gaetan/holbertonschool-csharp/csharp-inheritance/2-subclass/obj/Debug/netcoreapp2.1/2-subclass.genruntimeconfig.cache
