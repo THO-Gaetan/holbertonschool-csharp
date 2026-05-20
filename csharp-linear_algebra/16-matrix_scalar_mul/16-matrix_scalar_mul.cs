@@ -6,7 +6,7 @@ class MatrixMath
     {
         if ((matrix.GetLength(0) != 2 && matrix.GetLength(0) !=3)
         || (matrix.GetLength(1) != 2 && matrix.GetLength(1) !=3))
-            return new double[,] { -1 };
+            return new double[,] { { -1 } };
         int rows = matrix.GetLength(0);
         int cols = matrix.GetLength(1);
         double[,] result = new double[rows, cols];
