@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/net8.0/12-dot_product
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/net8.0/12-dot_product.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/net8.0/12-dot_product.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/net8.0/12-dot_product.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/bin/Debug/net8.0/12-dot_product.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net8.0/12-dot_product.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net8.0/12-dot_product.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net8.0/12-dot_product.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net8.0/12-dot_product.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net8.0/12-dot_product.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net8.0/12-dot_product.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net8.0/refint/12-dot_product.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net8.0/12-dot_product.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net8.0/12-dot_product.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/12-dot_product/obj/Debug/net8.0/ref/12-dot_product.dll

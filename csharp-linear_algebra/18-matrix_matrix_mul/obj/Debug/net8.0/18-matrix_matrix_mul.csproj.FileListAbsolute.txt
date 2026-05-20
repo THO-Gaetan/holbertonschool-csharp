@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/bin/Debug/net8.0/18-matrix_matrix_mul
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/bin/Debug/net8.0/18-matrix_matrix_mul.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/bin/Debug/net8.0/18-matrix_matrix_mul.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/bin/Debug/net8.0/18-matrix_matrix_mul.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/bin/Debug/net8.0/18-matrix_matrix_mul.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net8.0/18-matrix_matrix_mul.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net8.0/18-matrix_matrix_mul.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net8.0/18-matrix_matrix_mul.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net8.0/18-matrix_matrix_mul.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net8.0/18-matrix_matrix_mul.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net8.0/18-matrix_matrix_mul.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net8.0/refint/18-matrix_matrix_mul.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net8.0/18-matrix_matrix_mul.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net8.0/18-matrix_matrix_mul.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/18-matrix_matrix_mul/obj/Debug/net8.0/ref/18-matrix_matrix_mul.dll

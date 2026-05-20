@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/net8.0/24-matrix_shear_2D
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/net8.0/24-matrix_shear_2D.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/net8.0/24-matrix_shear_2D.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/net8.0/24-matrix_shear_2D.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/bin/Debug/net8.0/24-matrix_shear_2D.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net8.0/24-matrix_shear_2D.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net8.0/24-matrix_shear_2D.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net8.0/24-matrix_shear_2D.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net8.0/24-matrix_shear_2D.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net8.0/24-matrix_shear_2D.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net8.0/24-matrix_shear_2D.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net8.0/refint/24-matrix_shear_2D.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net8.0/24-matrix_shear_2D.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net8.0/24-matrix_shear_2D.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/24-matrix_shear_2D/obj/Debug/net8.0/ref/24-matrix_shear_2D.dll

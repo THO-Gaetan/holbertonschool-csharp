@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net8.0/3-magnitude
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net8.0/3-magnitude.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net8.0/3-magnitude.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net8.0/3-magnitude.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/bin/Debug/net8.0/3-magnitude.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net8.0/3-magnitude.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net8.0/3-magnitude.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net8.0/3-magnitude.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net8.0/3-magnitude.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net8.0/3-magnitude.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net8.0/3-magnitude.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net8.0/refint/3-magnitude.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net8.0/3-magnitude.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net8.0/3-magnitude.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/3-magnitude/obj/Debug/net8.0/ref/3-magnitude.dll

@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/28-determinant/bin/Debug/net8.0/28-determinant
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/28-determinant/bin/Debug/net8.0/28-determinant.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/28-determinant/bin/Debug/net8.0/28-determinant.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/28-determinant/bin/Debug/net8.0/28-determinant.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/28-determinant/bin/Debug/net8.0/28-determinant.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/28-determinant/obj/Debug/net8.0/28-determinant.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/28-determinant/obj/Debug/net8.0/28-determinant.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/28-determinant/obj/Debug/net8.0/28-determinant.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/28-determinant/obj/Debug/net8.0/28-determinant.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/28-determinant/obj/Debug/net8.0/28-determinant.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/28-determinant/obj/Debug/net8.0/28-determinant.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/28-determinant/obj/Debug/net8.0/refint/28-determinant.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/28-determinant/obj/Debug/net8.0/28-determinant.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/28-determinant/obj/Debug/net8.0/28-determinant.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/28-determinant/obj/Debug/net8.0/ref/28-determinant.dll

@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/25-matrix_transpose/bin/Debug/net8.0/25-matrix_transpose
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/25-matrix_transpose/bin/Debug/net8.0/25-matrix_transpose.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/25-matrix_transpose/bin/Debug/net8.0/25-matrix_transpose.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/25-matrix_transpose/bin/Debug/net8.0/25-matrix_transpose.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/25-matrix_transpose/bin/Debug/net8.0/25-matrix_transpose.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/25-matrix_transpose/obj/Debug/net8.0/25-matrix_transpose.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/25-matrix_transpose/obj/Debug/net8.0/25-matrix_transpose.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/25-matrix_transpose/obj/Debug/net8.0/25-matrix_transpose.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/25-matrix_transpose/obj/Debug/net8.0/25-matrix_transpose.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/25-matrix_transpose/obj/Debug/net8.0/25-matrix_transpose.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/25-matrix_transpose/obj/Debug/net8.0/25-matrix_transpose.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/25-matrix_transpose/obj/Debug/net8.0/refint/25-matrix_transpose.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/25-matrix_transpose/obj/Debug/net8.0/25-matrix_transpose.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/25-matrix_transpose/obj/Debug/net8.0/25-matrix_transpose.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/25-matrix_transpose/obj/Debug/net8.0/ref/25-matrix_transpose.dll

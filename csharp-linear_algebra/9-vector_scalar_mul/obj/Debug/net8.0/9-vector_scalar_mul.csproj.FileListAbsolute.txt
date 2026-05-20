@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/bin/Debug/net8.0/9-vector_scalar_mul
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/bin/Debug/net8.0/9-vector_scalar_mul.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/bin/Debug/net8.0/9-vector_scalar_mul.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/bin/Debug/net8.0/9-vector_scalar_mul.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/bin/Debug/net8.0/9-vector_scalar_mul.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net8.0/9-vector_scalar_mul.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net8.0/9-vector_scalar_mul.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net8.0/9-vector_scalar_mul.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net8.0/9-vector_scalar_mul.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net8.0/9-vector_scalar_mul.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net8.0/9-vector_scalar_mul.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net8.0/refint/9-vector_scalar_mul.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net8.0/9-vector_scalar_mul.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net8.0/9-vector_scalar_mul.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/9-vector_scalar_mul/obj/Debug/net8.0/ref/9-vector_scalar_mul.dll

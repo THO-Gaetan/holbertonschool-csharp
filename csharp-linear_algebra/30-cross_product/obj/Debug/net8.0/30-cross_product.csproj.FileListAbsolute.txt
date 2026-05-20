@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/bin/Debug/net8.0/30-cross_product
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/bin/Debug/net8.0/30-cross_product.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/bin/Debug/net8.0/30-cross_product.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/bin/Debug/net8.0/30-cross_product.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/bin/Debug/net8.0/30-cross_product.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net8.0/30-cross_product.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net8.0/30-cross_product.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net8.0/30-cross_product.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net8.0/30-cross_product.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net8.0/30-cross_product.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net8.0/30-cross_product.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net8.0/refint/30-cross_product.dll
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net8.0/30-cross_product.pdb
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net8.0/30-cross_product.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/30-cross_product/obj/Debug/net8.0/ref/30-cross_product.dll
