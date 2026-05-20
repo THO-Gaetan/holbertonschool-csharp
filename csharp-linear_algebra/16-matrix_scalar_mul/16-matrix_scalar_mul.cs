@@ -10,8 +10,8 @@ class MatrixMath
         int rows = matrix.GetLength(0);
         int cols = matrix.GetLength(1);
         double[,] result = new double[rows, cols];
-        for (i = 0; i < rows; i++)
-            for (j = 0; j < cols; j++)
+        for (int i = 0; i < rows; i++)
+            for (int j = 0; j < cols; j++)
                 result[i,j] = matrix[i,j] * scalar;
         return result;
     }
