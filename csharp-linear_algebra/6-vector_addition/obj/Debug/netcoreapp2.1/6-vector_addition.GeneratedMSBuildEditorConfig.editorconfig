@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = _6_vector_addition
+build_property.ProjectDir = /home/gaetan/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

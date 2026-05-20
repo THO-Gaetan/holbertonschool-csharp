@@ -1,0 +1,6 @@
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/netcoreapp2.1/6-vector_addition.csproj.AssemblyReference.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/netcoreapp2.1/6-vector_addition.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/netcoreapp2.1/6-vector_addition.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/netcoreapp2.1/6-vector_addition.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/netcoreapp2.1/6-vector_addition.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-linear_algebra/6-vector_addition/obj/Debug/netcoreapp2.1/6-vector_addition.sourcelink.json
