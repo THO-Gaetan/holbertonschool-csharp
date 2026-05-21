@@ -12,7 +12,7 @@ class MatrixMath
         double[,] result = new double[rows, cols];
         for (int i = 0; i < rows; i++)
             for (int j = 0; j < cols; j++)
-                result[i,j] = (matrix1[i,0] * matrix2[0,j] + (matrix1[i,1] * matrix2[1,j]))
+                result[i,j] = (matrix1[i,0] * matrix2[0,j] + (matrix1[i,1] * matrix2[1,j]));
         return result;
     }
 }
