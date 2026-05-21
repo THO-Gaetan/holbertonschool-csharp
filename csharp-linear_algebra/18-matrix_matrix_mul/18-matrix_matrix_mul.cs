@@ -13,7 +13,7 @@ class MatrixMath
         for (int i = 0; i < rows; i++)
             for (int j = 0; j < cols; j++)
                 for (int k = 0; k < rows; k++)
-                    result[i,j] = matrix1[i, k] * matrix2[k, j]
+                    result[i,j] = matrix1[i, k] * matrix2[k, j],
         return result;
     }
 }
