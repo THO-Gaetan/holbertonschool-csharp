@@ -26,7 +26,7 @@ class MatrixMath
         
         for (int i = 0; i  < size; i++)
             for (int j = 0; j < size; j++)
-                result[i,j] = Math.Round(result(i, j), 0);
+                result[i, j] = Math.Round(result[i, j], 0);
         return result;
     }
 }
