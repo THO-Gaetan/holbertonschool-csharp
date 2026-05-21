@@ -9,7 +9,7 @@ class MatrixMath
             return new double[,] { { -1 } };
 
         double[,] shear = { { 1, 0 }, { 0, 1 } };
-        if (direction == "x")
+        if (direction == 'x')
             shear[0, 1] = factor;
         else
             shear[1, 0] = factor;
