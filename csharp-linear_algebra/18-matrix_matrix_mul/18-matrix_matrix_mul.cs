@@ -4,7 +4,7 @@ class MatrixMath
 {
     public static double[,] Multiply(double[,] matrix1, double[,] matrix2)
     {
-        if (((matrix2.GetLength(0) != 2 && matrix2.GetLength(0) != 3) || (matrix2.GetLength(1) != 3 && matrix2.GetLength(1) != 3))
+        if (((matrix2.GetLength(0) != 2 && matrix2.GetLength(0) != 3) || (matrix2.GetLength(1) != 2 && matrix2.GetLength(1) != 3))
         || ((matrix1.GetLength(0) != 2 && matrix1.GetLength(0) != 3) || (matrix1.GetLength(1) != 2 && matrix1.GetLength(1) != 3)))
             return new double[,] { { -1 } };
         int rows = matrix1.GetLength(0);
