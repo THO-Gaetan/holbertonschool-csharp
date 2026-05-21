@@ -20,7 +20,7 @@ class MatrixMath
             double result2 = matrix[0, 1] * ((matrix[1, 0] * matrix[2, 2]) - (matrix[1, 2] * matrix[2, 0]));
             double result3 = matrix[0, 2] * ((matrix[1, 0] * matrix[2, 1]) - (matrix[1, 1] * matrix[2, 0]));
 
-            return Math.Round(result1 - result2 + result3, 0);
+            return Math.Round(result1 - result2 + result3, 2);
         }
     }
 }
