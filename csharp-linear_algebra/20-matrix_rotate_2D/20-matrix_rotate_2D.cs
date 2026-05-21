@@ -4,8 +4,7 @@ class MatrixMath
 {
     public static double[,] Rotate2D(double[,] matrix, double angle)
     {
-        if (matrix.GetLength(0) != matrix.GetLength(1)
-        || (matrix.GetLength(0) != 2 && matrix.GetLength(0) != 3))
+        if (matrix.GetLength(0) != matrix.GetLength(1) || (matrix.GetLength(0) != 2))
             return new double[,] { { -1 } };
         
         double cos = Math.Round(Math.Cos(angle), 10);
