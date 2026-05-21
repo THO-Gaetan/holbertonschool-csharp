@@ -10,9 +10,9 @@ class MatrixMath
 
         double[,] shear = { { 1, 0 }, { 0, 1 } };
         if (direction == 'x')
-            shear[0, 1] = factor;
-        else
             shear[1, 0] = factor;
+        else
+            shear[0, 1] = factor;
 
         int size = matrix.GetLength(0);
         double[,] result = new double[size, size];
