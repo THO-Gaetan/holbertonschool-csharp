@@ -24,10 +24,10 @@ class MatrixMath
             {
                 if (j == 0) {
                     result[i, 0] += matrix[i, j] * cos;
-                    result[i, 1] += matrix[i, j] * -sin;
+                    result[i, 1] += matrix[i, j] * sin;
                 }
                 else  {
-                    result[i, 0] += matrix[i, j] * sin;
+                    result[i, 0] += matrix[i, j] * -sin;
                     result[i, 1] += matrix[i, j] * cos;
                 }
             }
