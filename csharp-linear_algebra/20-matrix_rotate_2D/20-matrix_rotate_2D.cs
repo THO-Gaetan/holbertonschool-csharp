@@ -23,7 +23,10 @@ class MatrixMath
             for (int j = 0; j < size; j++)
                 for (int k = 0; k < inner; k++)
                     result[i, j] += rotation[i, k] * matrix[k, j];
-                    
+        
+        for (int i = 0; i  < size; i++)
+            for (int j = 0; j < size; j++)
+                result[i,j] = Math.Round(result(i, j), 0)
         return result;
     }
 }
