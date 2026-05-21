@@ -6,7 +6,7 @@ class MatrixMath
     {
         int size = matrix.GetLength(0);
 
-        if (matrix.getLength(0) != matrix.getLength(1) || (size != 2 && size != 3))
+        if (matrix.GetLength(0) != matrix.GetLength(1) || (size != 2 && size != 3))
             return -1;
         
         if (size == 2)
