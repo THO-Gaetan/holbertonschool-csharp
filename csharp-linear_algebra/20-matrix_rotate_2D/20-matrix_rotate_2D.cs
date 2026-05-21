@@ -21,12 +21,20 @@ class MatrixMath
 
         for (int i = 0; i < size; i++)
             for (int j = 0; j < size; j++)
-                for (int k = 0; k < inner; k++)
-                    result[i, j] += rotation[i, k] * matrix[k, j];
+            {
+                if (j = 0) {
+                    result[i, 0] += matrix[i, j] * cos;
+                    result[i, 1] += matrix[i, j] * -sin;
+                }
+                else  {
+                    result[i, 0] += matrix[i, j] * sin;
+                    result[i, 1] += matrix[i, j] * cos;
+                }
+            }
         
         for (int i = 0; i  < size; i++)
             for (int j = 0; j < size; j++)
-                result[i, j] = Math.Round(result[i, j], 0);
+                result[i, j] = Math.Round(result[i, j], 2);
         return result;
     }
 }
