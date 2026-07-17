@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/bin/Debug/netcoreapp2.1/0-abstract_thinking.xml
+/home/gaetan/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/bin/Debug/netcoreapp2.1/0-abstract_thinking.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/bin/Debug/netcoreapp2.1/0-abstract_thinking.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/bin/Debug/netcoreapp2.1/0-abstract_thinking.runtimeconfig.dev.json
+/home/gaetan/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/bin/Debug/netcoreapp2.1/0-abstract_thinking.dll
+/home/gaetan/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/bin/Debug/netcoreapp2.1/0-abstract_thinking.pdb
+/home/gaetan/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/netcoreapp2.1/0-abstract_thinking.csproj.AssemblyReference.cache
+/home/gaetan/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/netcoreapp2.1/0-abstract_thinking.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/netcoreapp2.1/0-abstract_thinking.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/netcoreapp2.1/0-abstract_thinking.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/netcoreapp2.1/0-abstract_thinking.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/netcoreapp2.1/0-abstract_thinking.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/netcoreapp2.1/0-abstract_thinking.dll
+/home/gaetan/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/netcoreapp2.1/0-abstract_thinking.pdb
+/home/gaetan/holbertonschool-csharp/csharp-interfaces/0-abstract_thinking/obj/Debug/netcoreapp2.1/0-abstract_thinking.genruntimeconfig.cache

@@ -1,2 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using System;
+
+abstract class Base
+{
+    public string name { get; set; }
+    override public string ToString()
+    {
+        return $"{name} is a {this.GetType().Name}";
+    }
+}
