@@ -28,7 +28,7 @@ abstract class Base
 
 class Door : Base, Base.IInteractive
 {
-    public Door(string name)
+    public Door(string name = "Door")
     {
         this.name = name;
     }
