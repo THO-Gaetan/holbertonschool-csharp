@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1-damage_delegation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+801564dce6310848969b0a7f820e136ebfb13c5a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba30074f08989d34b711a77dd21340e04f7021d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("1-damage_delegation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1-damage_delegation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
