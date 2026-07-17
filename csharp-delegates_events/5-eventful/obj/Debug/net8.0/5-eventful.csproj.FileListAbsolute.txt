@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-delegates_events/5-eventful/bin/Debug/net8.0/5-eventful
+/home/gaetan/holbertonschool-csharp/csharp-delegates_events/5-eventful/bin/Debug/net8.0/5-eventful.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-delegates_events/5-eventful/bin/Debug/net8.0/5-eventful.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-delegates_events/5-eventful/bin/Debug/net8.0/5-eventful.dll
+/home/gaetan/holbertonschool-csharp/csharp-delegates_events/5-eventful/bin/Debug/net8.0/5-eventful.pdb
+/home/gaetan/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net8.0/5-eventful.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net8.0/5-eventful.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net8.0/5-eventful.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net8.0/5-eventful.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net8.0/5-eventful.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net8.0/5-eventful.dll
+/home/gaetan/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net8.0/refint/5-eventful.dll
+/home/gaetan/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net8.0/5-eventful.pdb
+/home/gaetan/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net8.0/5-eventful.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-delegates_events/5-eventful/obj/Debug/net8.0/ref/5-eventful.dll
