@@ -87,5 +87,10 @@ public enum Modifier
     /// <summary> Strong modifier</summary>
     Strong
 }
-
+/// <summary>
+/// CalculateModifier delegate
+/// </summary>
+/// <param name="baseValue"></param>
+/// <param name="modifier"></param>
+/// <returns></returns>
 public delegate float CalculateModifier(float baseValue, Modifier modifier);
