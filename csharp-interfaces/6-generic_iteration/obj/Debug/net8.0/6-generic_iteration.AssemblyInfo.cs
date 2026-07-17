@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("6-generic_iteration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0d5ec6176b6c89a2b34554f8c0394b1b04c4770")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2258b924360010c50da1628f52a914653b17f017")]
 [assembly: System.Reflection.AssemblyProductAttribute("6-generic_iteration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("6-generic_iteration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
