@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-dotnet new console -n "0-is"
-cd 0-is
+dotnet new console -n "5-iterate_act"
+cd 5-iterate_act
 dotnet build
-mv Program.cs 0-is.cs
+mv Program.cs 5-iterate_act.cs
 dotnet run

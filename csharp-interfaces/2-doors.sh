@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
-dotnet new console -n "0-is"
-cd 0-is
+dotnet new console -n "2-doors"
+cd 2-doors
 dotnet build
-mv Program.cs 0-is.cs
+mv Program.cs 2-doors.cs
 dotnet run
