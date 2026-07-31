@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net8.0/5-concatenate
+/home/gaetan/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net8.0/5-concatenate.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net8.0/5-concatenate.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net8.0/5-concatenate.dll
+/home/gaetan/holbertonschool-csharp/csharp-generics/5-concatenate/bin/Debug/net8.0/5-concatenate.pdb
+/home/gaetan/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net8.0/5-concatenate.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net8.0/5-concatenate.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net8.0/5-concatenate.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net8.0/5-concatenate.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net8.0/5-concatenate.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net8.0/5-concatenate.dll
+/home/gaetan/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net8.0/refint/5-concatenate.dll
+/home/gaetan/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net8.0/5-concatenate.pdb
+/home/gaetan/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net8.0/5-concatenate.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-generics/5-concatenate/obj/Debug/net8.0/ref/5-concatenate.dll

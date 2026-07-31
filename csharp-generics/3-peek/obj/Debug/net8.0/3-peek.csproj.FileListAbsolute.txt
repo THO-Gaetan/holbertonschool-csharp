@@ -1,0 +1,15 @@
+/home/gaetan/holbertonschool-csharp/csharp-generics/3-peek/bin/Debug/net8.0/3-peek
+/home/gaetan/holbertonschool-csharp/csharp-generics/3-peek/bin/Debug/net8.0/3-peek.deps.json
+/home/gaetan/holbertonschool-csharp/csharp-generics/3-peek/bin/Debug/net8.0/3-peek.runtimeconfig.json
+/home/gaetan/holbertonschool-csharp/csharp-generics/3-peek/bin/Debug/net8.0/3-peek.dll
+/home/gaetan/holbertonschool-csharp/csharp-generics/3-peek/bin/Debug/net8.0/3-peek.pdb
+/home/gaetan/holbertonschool-csharp/csharp-generics/3-peek/obj/Debug/net8.0/3-peek.GeneratedMSBuildEditorConfig.editorconfig
+/home/gaetan/holbertonschool-csharp/csharp-generics/3-peek/obj/Debug/net8.0/3-peek.AssemblyInfoInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-generics/3-peek/obj/Debug/net8.0/3-peek.AssemblyInfo.cs
+/home/gaetan/holbertonschool-csharp/csharp-generics/3-peek/obj/Debug/net8.0/3-peek.csproj.CoreCompileInputs.cache
+/home/gaetan/holbertonschool-csharp/csharp-generics/3-peek/obj/Debug/net8.0/3-peek.sourcelink.json
+/home/gaetan/holbertonschool-csharp/csharp-generics/3-peek/obj/Debug/net8.0/3-peek.dll
+/home/gaetan/holbertonschool-csharp/csharp-generics/3-peek/obj/Debug/net8.0/refint/3-peek.dll
+/home/gaetan/holbertonschool-csharp/csharp-generics/3-peek/obj/Debug/net8.0/3-peek.pdb
+/home/gaetan/holbertonschool-csharp/csharp-generics/3-peek/obj/Debug/net8.0/3-peek.genruntimeconfig.cache
+/home/gaetan/holbertonschool-csharp/csharp-generics/3-peek/obj/Debug/net8.0/ref/3-peek.dll
