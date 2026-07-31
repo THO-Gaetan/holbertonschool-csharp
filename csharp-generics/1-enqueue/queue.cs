@@ -5,17 +5,16 @@
 /// <typeparam name="T"></typeparam>
 class Queue<T>
 {
+    public Node head;
+    public Node tail;
+    public int count = 0;
     public class Node
     {
-        public T value { get; set; }
-        public Node Next { get; set; }
-        public Node head { get; set; }
-        public Node tail { get; set; }
-        public int count { get; set; }
-        public Node(T Value)
+        public T value = default(T);
+        public Node next = null;
+        public Node(T value)
         {
-            value = Value;
-            Next = null;
+            this.value = value;
         }
     }
     public Type CheckType()
@@ -26,13 +25,22 @@ class Queue<T>
     public Node Enqueue(T value)
     {
         if (head == null)
+        {
             head = new Node(value);
+            tail = head;
+        }
         else
         {
             Node newNode = new Node(value);
-            tail.Next = newNode;
+            tail.next = newNode;
+            tail = newNode;
             count++;
         }
         return tail;
     }
-}
+
+    public int Count()
+    {
+        return count + 1;
+    }
+}   
