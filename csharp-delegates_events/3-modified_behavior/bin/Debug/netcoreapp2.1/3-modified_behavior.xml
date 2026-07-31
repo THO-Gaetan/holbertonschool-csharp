@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>3-modified_behavior</name>
+    </assembly>
+    <members>
+        <member name="T:Modifier">
+            <summary>
+            Modifier enum
+            </summary>
+        </member>
+        <member name="F:Modifier.Weak">
+            <summary> Weak modifier</summary>
+        </member>
+        <member name="F:Modifier.Base">
+            <summary> Base modifier</summary>
+        </member>
+        <member name="F:Modifier.Strong">
+            <summary> Strong modifier</summary>
+        </member>
+        <member name="T:CalculateModifier">
+            <summary>
+            CalculateModifier delegate
+            </summary>
+            <param name="baseValue"></param>
+            <param name="modifier"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
