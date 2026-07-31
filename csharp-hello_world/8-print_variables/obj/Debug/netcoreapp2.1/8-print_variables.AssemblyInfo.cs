@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("8-print_variables")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abbb5f9788aef1fd4d1efe69e401ba5928eba629")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c68aecee3490287323c9cfd5aa79c5752ac2de0")]
 [assembly: System.Reflection.AssemblyProductAttribute("8-print_variables")]
 [assembly: System.Reflection.AssemblyTitleAttribute("8-print_variables")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

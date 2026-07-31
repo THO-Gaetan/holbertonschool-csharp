@@ -84,25 +84,25 @@ class Decoration : Base, Base.IInteractive, Base.IBreakable
     }
 }
 
-class Key : Base, Base.ICollectable
-{
-    public bool isCollected { get; set; }
-    public Key(string name = "Key", bool isCollected = false)
+    class Key : Base, ICollectable
     {
-        this.name = name;
-        this.isCollected = isCollected;
-    }
+        public bool isCollected { get; set; }
+        public Key(string name = "Key", bool isCollected = false)
+        {
+            this.name = name;
+            this.isCollected = isCollected;
+        }
 
-    public void Collect()
-    {
-        if (!isCollected)
+        public void Collect()
         {
-            isCollected = true;
-            Console.WriteLine($"You pick up the {name}.");
-        }
-        else
-        {
-            Console.WriteLine($"You have already picked up the {name}.");
+            if (!isCollected)
+            {
+                isCollected = true;
+                Console.WriteLine($"You pick up the {name}.");
+            }
+            else
+            {
+                Console.WriteLine($"You have already picked up the {name}.");
+            }
         }
     }
-}

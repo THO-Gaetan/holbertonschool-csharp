@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("13-linkedlist_delete")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dacb4f262f7d55ab88ede2a4260fba81133d3954")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c68aecee3490287323c9cfd5aa79c5752ac2de0")]
 [assembly: System.Reflection.AssemblyProductAttribute("13-linkedlist_delete")]
 [assembly: System.Reflection.AssemblyTitleAttribute("13-linkedlist_delete")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
