@@ -1,6 +1,9 @@
 ﻿using System;
-
-public class Queue<T>
+/// <summary>
+/// Represents a generic queue data structure.
+/// </summary>
+/// <typeparam name="T"></typeparam>
+class Queue<T>
 {
     public Type CheckType()
     {
