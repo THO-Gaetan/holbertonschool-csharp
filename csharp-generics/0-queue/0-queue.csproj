@@ -5,7 +5,7 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
     <DocumentationFile>bin\Debug\netcoreapp2.1\0-queue.xml</DocumentationFile>
     <LangVersion>7.3</LangVersion>
-    <RootNamespace>_0_queue</RootNamespace>
+    <RootNamespace>_0_enqueue</RootNamespace>
   </PropertyGroup>
 
 </Project>

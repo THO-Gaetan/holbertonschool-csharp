@@ -1,4 +1,6 @@
-﻿public class Queue<T>
+﻿using System;
+
+public class Queue<T>
 {
     public Type CheckType()
     {
