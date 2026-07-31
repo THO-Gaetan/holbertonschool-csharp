@@ -3,9 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <DocumentationFile>bin\Debug\netcoreapp2.1\queue.xml</DocumentationFile>
+    <DocumentationFile>bin\Debug\netcoreapp2.1\0-queue.xml</DocumentationFile>
     <LangVersion>7.3</LangVersion>
-    <RootNamespace>queue</RootNamespace>
+    <RootNamespace>_0_queue</RootNamespace>
   </PropertyGroup>
 
 </Project>
