@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = _4_print
+build_property.ProjectDir = /home/gaetan/holbertonschool-csharp/csharp-generics/4-print/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
