@@ -5,8 +5,9 @@ class Player
     private string name;
     private float hp;
     private float maxHp;
+    private string status;
 
-    public Player(string name = "Player", float maxHp = 100f)
+    public Player(string name = "Player", float maxHp = 100f, string status = "{name} is ready to go!")
     {
         if (maxHp <= 0f)
         {
@@ -16,6 +17,8 @@ class Player
         this.name = name;
         this.maxHp = maxHp;
         this.hp = maxHp;
+        this.status = status;
+        this.HPCheck += CheckStatus;
     }
 
     public void PrintHealth()
@@ -48,14 +51,17 @@ class Player
         if (newHp < 0f)
         {
             hp = 0f;
+            HPCheck(this, new CurrentHPArgs(hp));
         }
         else if (newHp > maxHp)
         {
             hp = maxHp;
+            HPCheck(this, new CurrentHPArgs(hp));
         }
         else
         {
             hp = newHp;
+            HPCheck(this, new CurrentHPArgs(hp));
         }
     }
 
@@ -72,6 +78,42 @@ class Player
             default:
                 return baseValue;
         }
+    }
+
+    private EventHandler<CurrentHPArgs> HPCheck;
+
+    private void CheckStatus(object sender, CurrentHPArgs e)
+    {
+        if (e.currentHp == maxHp)
+        {
+            Console.WriteLine($"{name} is in perfect health!");
+        }
+        else if (e.currentHp >= maxHp / 2f && e.currentHp < maxHp)
+        {
+            Console.WriteLine($"{name} is doing well!");
+        }
+        else if (e.currentHp >= maxHp / 4f && e.currentHp < maxHp / 2f)
+        {
+            Console.WriteLine($"{name} isn't doing too great...");
+        }
+        else if (e.currentHp > 0f && e.currentHp < maxHp / 4f)
+        {
+            Console.WriteLine($"{name} needs help!");
+        }
+        else
+        {
+            Console.WriteLine($"{name} is knocked out!");
+        }
+    }
+}
+
+class CurrentHPArgs : EventArgs
+{
+    public float currentHp { get; private set;  }
+
+    public CurrentHPArgs(float newHp)
+    {
+        this.currentHp = newHp;
     }
 }
 
